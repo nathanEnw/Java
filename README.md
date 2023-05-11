@@ -1,2 +1,2 @@
 # Java
-Java projects from school and personal ones
+Java projects from school
